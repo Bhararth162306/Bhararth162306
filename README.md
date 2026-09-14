@@ -29,3 +29,19 @@ Computer Control   → Windows Automation • Task Execution • Verification
 Embedded Systems   → ESP32 • Arduino • Sensors • Hardware Interfaces
 Industrial         → PLC • Automation • Mechatronics • Pneumatics
 Electronics        → PCB Design • KiCad • Hardware Testing
+🛠️ Technology
+
+Python Git GitHub Windows Automation ESP32 Arduino KiCad PLC
+🚀 Featured Project
+🤖 J.A.R.V.I.S.
+
+An evolving AI computer-control system combining:
+
+Natural Language → Planning → Tool Execution → Observation → Verification → Recovery
+📊 3D Contribution Activity
+<p align="center"> <img src="https://raw.githubusercontent.com/Bhararth162306/Bhararth162306/main/profile-3d-contrib/profile-green-animate.svg" alt="3D GitHub Contribution Graph" width="100%" /> </p>
+🎯 Direction
+
+Artificial Intelligence × Robotics × Electronics × Industrial Automation
+
+Building practical intelligent systems that can understand environments, make decisions, and execute real-world tasks.
